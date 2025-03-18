@@ -1,0 +1,2 @@
+mkdir backup-portraits
+cp -r portraits backup-portraits
